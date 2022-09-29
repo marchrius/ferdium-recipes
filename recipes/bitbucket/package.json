@@ -1,9 +1,0 @@
-{
-  "id": "bitbucket",
-  "name": "BitBucket",
-  "version": "1.2.1",
-  "license": "MIT",
-  "config": {
-    "serviceURL": "https://bitbucket.org/dashboard/overview"
-  }
-}

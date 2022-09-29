@@ -1,9 +1,0 @@
-{
-  "id": "mailbox.org",
-  "name": "Mailbox.org",
-  "version": "1.4.0",
-  "license": "MIT",
-  "config": {
-    "serviceURL": "https://office.mailbox.org/appsuite/#!!&app=io.ox/portal"
-  }
-}
